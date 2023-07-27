@@ -8,6 +8,7 @@ __pycache__
 
 #user defined
 *.json
+*.txt
 
 # Distribution / packaging
 .Python
